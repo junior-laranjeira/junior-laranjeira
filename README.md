@@ -17,7 +17,6 @@
  
   <a href="https://instagram.com/junior_laranjeira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/junior-laranjeira-01108b263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
+  
+![Animação de cobra](https://github.com/júnio-laranjeira/júnio-laranjeira/blob/output/github-contribution-grid-snake.svg)
 </div>
